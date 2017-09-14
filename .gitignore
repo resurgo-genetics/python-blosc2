@@ -1,0 +1,9 @@
+blosc/blosc_extension.so
+blosc/version.py
+build/
+doc/_build/
+dist/
+blosc.egg-info/
+*~
+*.pyc
+
